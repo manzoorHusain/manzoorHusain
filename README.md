@@ -38,7 +38,7 @@
  
   
 <!--   Top Languages Using -->
-### 👨‍💻 Top Languages Used*:
+### 👨‍💻 Top Languages Used:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manzoorHusain&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manzoorHusain&theme=nord_dark)
 
@@ -54,7 +54,7 @@
  <br>
 
   <div align="center">
-  <h3><b>😄 Can Connect With Me On</b></h3>
+  <h3><b> Connect With Me On <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="26px"> </b></h3>
   </div>
 <p align="center">
 <a href="https://www.linkedin.com/in/manzoor-cs/" target="_blank">
