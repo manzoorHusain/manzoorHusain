@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - I’m currently working as an Intern at <a href="https://www.sestek.com/" target="_blank">Sestek </a>
 - 👯 I’m looking to collaborate on Web Development  and AI Projects
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm trying to be a good programmer.
+- ⚡ Fun fact: I'm still learning.
 
 <br />
 
@@ -85,7 +85,7 @@ Here are some ideas to get you started:
   </div>
 <p align="center">
 <a href="https://www.linkedin.com/in/manzoor-cs/" target="_blank">
-  <img align="center" alt="Darshan R | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  <img align="center" alt="Manzoor Hussain | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://twitter.com/Manzoor15760096" target="_blank">
   <img align="center" alt="Manzoor Hussain| Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
@@ -96,8 +96,8 @@ Here are some ideas to get you started:
 <a href="mailto:manzoorhussain4428@gmail.com" target="_blank">
   <img align="center" alt="Manzoor Hussain | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://drive.google.com/file/d/1itefnCEZFZ0BCqiLgnveoP2nT7ImZjzv/view?usp=sharing">
-    <img align="center" alt="Darshan R | Resume" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/resume.png" />
+<a href="https://drive.google.com/file/d/1VG7LGIjqSXLfaqpBGl3-9u7i0HtR9Q6Y/view?usp=sharing">
+    <img align="center" alt="Manzoor Hussain | Resume" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/resume.png" />
 </a> &nbsp;&nbsp;
 <p>
   
