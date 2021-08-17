@@ -14,21 +14,15 @@
 
 <br />
 
+### Languages and Tools:
 
-### 🧰 Languages and Tools:
-<p align="center">
-<img align="left" alt="HTML5" width="26px" src="./Assets/html.png" />
-<img align="left" alt="CSS3" width="26px" src="./Assets/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="./Assets/javascript.png" />
-<img align="left" alt="C" width="26px" src="./Assets/c.png" />
-<img align="left" alt="Python" width="26px" src="./Assets/python.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="./Assets/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="./Assets/git.png" />
-</p>
+<img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>   <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>  <img alt="Badge" style="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/Jupyter_Notebook%20-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DE2E"/>
+<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>  <img alt="Badge" style="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>  <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/java-%230175C2.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/OpenCV%20-%23FFBB00.svg?&style=for-the-badge&logo=opencv&logoColor=white"/>
+<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/eclipse-%230175C2.svg?&style=for-the-badge&logo=Eclipse&logoColor=white"/>
+<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/Visual Studio%20-%23323330.svg?&style=for-the-badge&logo=visualstudio&logoColor=%23F7DF1E"/>
+
+
 <br />
-<br />
-
-
 
 
 
@@ -86,4 +80,5 @@
 </p>
    
   
+
   
