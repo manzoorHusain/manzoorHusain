@@ -7,7 +7,7 @@
 <br />
 
 - 🌱 I’m currently learning Data Science.
-- 🔭 I’m currently working as an Intern at <a href="https://www.sestek.com/" target="_blank">Sestek </a>
+- 🔭 I’m currently working as a machine learning intern at <a href="https://technocolabs.com/" target="_blank">Technocolabs </a>
 - 👯 I’m looking to collaborate on Web Development  and AI Projects
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm still learning.
