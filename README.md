@@ -1,12 +1,14 @@
 
 
-### Hi there, I'm Manzoor Hussain <img src="./Assets/Hi.gif" width="22px">
+### Hi there, I'm Manzoor Hussain.  <!--- <img src="./Assets/Hi.gif" width="5px"> --> 
 
 ---
 
 <br />
 
 - 🌱 I’m currently learning Machine Learning and  Data Science.
+- 🔭 Software Intern at  <a href="https://www.tkxel.com/" target="_blank">Tkxel </a>
+- 🔭 Ex-backend developer at  <a href="https://www.blc-css.com/" target="_blank">BLC Communication and Security Systems. </a>
 - 🔭 Ex-intern as a test engineer at  <a href="https://www.sestek.com/" target="_blank">Sestek </a>
 - 🔭 Ex-machine learning intern at <a href="https://technocolabs.com/" target="_blank">Technocolabs </a>
 - 👯 I’m looking to collaborate on Web Development  and AI Projects.
