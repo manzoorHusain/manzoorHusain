@@ -6,8 +6,8 @@
 
 <br />
 
-- 🌱 I’m currently learning Machine Learning and  Data Science.
-- 🔭 Erasmus+ Software Intern at  <a href="https://www.tkxel.com/" target="_blank">Tkxel </a>.
+- 🌱 I’m currently learning Backend (Django), Machine Learning and  Data Science.
+- 🔭 EX Erasmus+ Software Intern at  <a href="https://www.tkxel.com/" target="_blank">Tkxel </a>.
 - 🔭 Bootcamp student at Patika.dev offered by the collaboration of <a href="https://www.interprobe.com.tr/" target="_blank">Interporbe </a>  and   <a href="https://www.patika.dev/" target="_blank">Patika </a>.
 - 🔭 Ex-backend developer at  <a href="https://www.blc-css.com/" target="_blank">BLC Communication and Security Systems</a>.
 - 🔭 Ex-intern as a test engineer at  <a href="https://www.sestek.com/" target="_blank">Sestek </a>.
