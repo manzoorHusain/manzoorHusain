@@ -54,9 +54,6 @@
   <h3><b> Connect With Me On <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="26px"> </b></h3>
   </div>
 <p align="center">
-<a href="https://www.linkedin.com/in/manzoor-cs/" target="_blank">
-  <img align="center" alt="Manzoor Hussain | Linkedin" width="24px" src="./Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp;
 <a href="https://twitter.com/Manzoor15760096" target="_blank">
   <img align="center" alt="Manzoor Hussain| Twitter" width="26px" src="./Assets/Twitter.svg" />
 </a> &nbsp;&nbsp;
